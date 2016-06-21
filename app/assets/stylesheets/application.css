@@ -15,7 +15,7 @@
  */
 
   html, body {
-    background-color: #fac3d7;
+    background-color: #f9d7e3;
  }
 .title, body, html {
   padding: 0;
@@ -27,7 +27,7 @@
   color: rgb(120, 85, 77);
   margin: 0;
   padding: 3px 15px;
-  background-color: rgb(195, 169, 141);
+  background-color: rgb(142, 120, 98);
 }
 canvas {
   margin-left: 45%;
@@ -57,7 +57,7 @@ canvas {
     color: #ffffff;
  }
 .new {
-   text-align: center; 
+   text-align: center;
 }
 
  a {
